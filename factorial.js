@@ -1,5 +1,6 @@
-let num=parseInt(prompt("enter the number"))
-let num2=1
-for(num=1)
-
-
+let num=parseInt(prompt("enter a number"))
+let fact=1
+for(i=1;i<=num;i++){
+    fact=fact*i
+}
+alert("factorial is"+fact)
