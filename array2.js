@@ -15,7 +15,7 @@ for(i=0;i<num.length;i++){
     
     }
       if(n==false){
-        alert("no not found")
+        alert("number not found")
       }
 
 
